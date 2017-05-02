@@ -1,0 +1,1 @@
+<a class="clasa" href="http://localhost/Lab3APPOO/1/pages/2.html">pag 2</a>  <a class="clasa" href="http://localhost/Lab3APPOO/1/pages/3.html">pag 3</a>  
